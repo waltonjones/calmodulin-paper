@@ -12,4 +12,4 @@ Importantly, this reduction in dendritic Orco occurs despite normal dendritic mo
 
 Since Orco is required for the trafficking of odor-specific ORs to the dendrites where they bind odorants and for odor-evoked signal transduction, we expected the reduction of Orco trafficking induced by CaM knock-down would also affect olfactory responsiveness.
 We, therefore, used sharpened tungsten electrodes to record the odor-evoked responses of individual large basiconic antennal sensilla.
-While "CaM-IR OFF" sensilla show normal spontaneous activity (Fig. 1E), more than 50% of the "CaM-IR ON" sensilla are silent, completely lacking spontaneous or odor-evoked action potentials (Fig. 1F-G).
+While "CaM-IR OFF" sensilla show normal spontaneous activity (Fig. 1D), more than 50% of the "CaM-IR ON" sensilla are silent, completely lacking spontaneous or odor-evoked action potentials (Fig. 1E-F).
