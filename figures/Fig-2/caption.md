@@ -1,2 +1,4 @@
-Fig. 2
-Putative CBS in Orco is highly conserved. **a** Snake plot of Orco protein, each amino acid colored based on the level of conservation among other insect Orco orthologues. Putative CBS, marked by a bracket, is nearly 100% conserved among approximately 80 insect Orco orthologues examined. **b** Closer view of the Orco putative CBS and the three CBS mutants generated: Orco^CBSΔ with the first three and last two amino acids of the putative CBS deleted; Orco^W341Δ with a single Tryptophan residue deletion; and Orco^RH344EE with two positively charged residues, Arginine and Histidine, substituted with negatively charged Glutamate residues. 
+**Figure 2: Putative CBS in Orco is highly conserved.**
+**A.** Snake plot of Orco protein, each amino acid colored based on the level of conservation among other insect Orco orthologues.
+Putative CBS, marked by a bracket, is nearly 100% conserved among approximately 80 insect Orco orthologues examined.
+**B.** Closer view of the Orco putative CBS and the three CBS mutants generated: Orco^CBSΔ with the first three and last two amino acids of the putative CBS deleted; Orco^W341Δ with a single Tryptophan residue deletion; and Orco^RH344EE with two positively charged residues, Arginine and Histidine, substituted with negatively charged Glutamate residues.
