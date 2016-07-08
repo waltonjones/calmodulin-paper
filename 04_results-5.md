@@ -1,0 +1,7 @@
+Figure 3 shows how Peb-GAL4-driven CaM knock-down, beginning 12--18 hours APF before Orco is expressed, dramatically reduces dendritic Orco/OR trafficking.
+Orco-GAL4 expression begins around 80 hours APF when Orco expression begins \cite{Larsson_2004}.
+When we used Orco-GAL4 to knock-down CaM, we observed no change in the electrophysiological dose-response curves for ab2A neurons responding to methyl acetate (Fig. 5A) and a small drop in the lower dose-responses for ab3A neurons responding to ethyl butyrate (Fig. 5B).
+In contrast, ab2A neurons in CaM-depleted flies exposed to 7 days of 10% ethyl acetate, which activates ab2A, show a strong reduction in methyl acetate sensitivity at all doses (Fig. 5C). In this case, we used ethyl acetate instead of methyl acetate because methyl acetate evaporates too quickly, making long-term exposures difficult.
+Similarly, ab3A neurons in CaM-depleted flies exposed to 7 days of 10% ethyl butyrate show a dramatic drop in sensitivity across all doses tested (Fig. 5D).
+To determine whether this effect is OSN-specific, we exposed flies to 10% methyl hexanoate, which activates ab3A but not ab2A, and measured their sensitivity to either methyl acetate (ab2A) or ethyl butyrate (ab3A).
+As expected, methyl hexanoate exposure only affects the sensitivity of the CaM-depleted ab3A neurons (Fig. 5E and F).

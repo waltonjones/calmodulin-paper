@@ -1,0 +1,6 @@
+## Figure 3
+**Orco CBS mutations disrupt the dendritic trafficking of Orco and Or47a.**
+**A** UAS-mCH::Orco^WT/UAS-myR::GFP (II); Orco-Gal4, Orco^1 (III) flies have normal Orco localization in the OSN cell bodies and dendrites (_left_) and normal dendritic morphology (_right_), confirmed by visualization of the mCherry fluorophore and GFP, respectively.
+**B** Immunostaining UAS-Orco^WT/UAS-EGFP::OR47a(II); Orco-Gal4, Orco^1 (III) flies' antenna with GFP antibody show normal dendritic trafficking of ectopically expressed OR47a receptor.
+**C** to **H** When Orco and OR47a localization and dendritic morphology were similarly examined in flies expressing **C** and **D** Orco^CBSΔ, **E** and **F** Orco^W341Δ and **G** and **H** Orco^RH344EE, all three Orco putative CBS mutations resulted in **C**, **E**, and **G** a complete loss of Orco localization in the dendrites despite normal dendritic morphology and **D**, **F**, and **H** loss of Or47a dendritic trafficking. For **C**, **E**, and **G** smaller images on the left are those taken at the same gain as **A**, and larger images are the same antenna visualized at an enhanced gain to confirm the lack of Orco in the dendrites. **B**, **D**, **F**, and **H** are results of immunostaining with GFP antibody and converting to inverted black and white images.
+All scale bars: 10 μm. 
