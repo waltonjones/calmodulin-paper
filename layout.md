@@ -10,9 +10,9 @@ figures/Fig-3/Fig-3.png
 04_results-4.md
 figures/Fig-4/Fig-4.png
 04_results-5.md
-figures/Fig5/Fig-5.png
+figures/Fig-5/Fig-5.png
 04_results-6.md
-figures/Fig6/Fig-6.png
+figures/Fig-6/Fig-6.png
 05_discussion.md
 06_conclusion.md
 07_methods.md
