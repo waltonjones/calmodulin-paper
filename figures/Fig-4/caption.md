@@ -1,7 +1,7 @@
 **Figure 4: Odor exposure in the absence of new Orco production accelerates the loss of existing dendritic Orco.**
 
 **A.** Experimental scheme.
-We maintained _UAS-mCherry::Orco<sup>WT</sup>/tub-GAL80<sup>ts</sup>, Or22a-GAL4 (II); tub-GAL80<sup>ts</sup>, Orco^1 (III)_flies at 29ºC until 3 days PE.
+We maintained _UAS-mCherry::Orco<sup>WT</sup>/tub-GAL80<sup>ts</sup>, Or22a-GAL4 (II); tub-GAL80<sup>ts</sup>, Orco<sup>1</sup> (III)_flies at 29ºC until 3 days PE.
 Then, after transferring them to 18ºC to block additional Orco expression, we divided the flies into two groups: those maintained on normal food and those maintained on food plus a perforated EP tube containing 10% ethyl butyrate.
 **B--E.** Orco localization in ab3A dendrites determined by visualizing mCherry.
 **B.** "Orco ON control" antennae prior to the transfer to 18ºC show clear ab3A cell body and dendritic localization of Orco.
