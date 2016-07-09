@@ -12,8 +12,8 @@ We, therefore, wondered whether CaM plays an activity-dependent role in the olfa
 This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
 To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites during or after prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
-We, therefore, used Or22a-GAL4 to drive expression of Orco^WT, rescuing the Orco^1 mutation only in ab3A neurons.
-These flies also carried three copies of the temperature-sensitive tub-GAL80^ts, allowing us to block their production of any new Orco expression by shifting the flies from 29ºC down to 18ºC (Fig. 4a).
+We, therefore, used Or22a-GAL4 to drive expression of Orco<sup>WT</sup>, rescuing the Orco<sup>1</sup> mutation only in ab3A neurons.
+These flies also carried three copies of the temperature-sensitive tub-GAL80<sup>ts</sup>, allowing us to block their production of any new Orco expression by shifting the flies from 29ºC down to 18ºC (Fig. 4a).
 When we stained "Orco ON" control flies raised continuously at 29ºC, we observed strong mCherry::Orco signal in both the cell bodies and dendrites of their ab3A neurons (Fig. 4B).
 In contrast, the "Orco OFF" control, raised continously at 18ºC, showed absolutely no Orco signal at all (Fig. 4C), confirming the function of the GAL80 transgenes.
 To see how odorant exposure affects dendritic Orco levels, we reared these flies at 29ºC to allow Orco expression.
