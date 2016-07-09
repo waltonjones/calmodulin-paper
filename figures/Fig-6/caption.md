@@ -1,1 +1,9 @@
-Figure 5. CaM knockdown lowers the level of dendritic Orco in an activity-dependent manner. **a** UAS-Dicer2/+ (X); UAS-mCH::Orco^WT/+(II); OR22a-Gal4, Orco^1 (III) control flies and **b** UAS-Dicer2/+ (X); UAS-mCH::Orco^WT/UAS-CaM RNAi(II); OR22a-Gal4, Orco^1(III) flies show only a slight to no difference in the dendritic level of Orco when they're reared without any odorant exposure. **c** and **d** But when they are exposed to EB for seven days, the difference in level of Orco in the dendrites between control and CaM RNAi flies becomes much more drastic. **c** Even though control flies also show reduction in level of dendritic Orco upon EB exposure, such reduction is much more drastic in **d** CaM RNAi flies, in which dendritic Orco is almost completely depleted. All images are visualization of the mCherry tag on Orco which has been converted to inverted black and white images. All scale bars: 10um. 
+**Figure 5: CaM knock-down reduces dendritic Orco in an activity-dependent manner.**
+
+**A.** The ab3A dendrites of [_UAS-Dcr-2/+ (X); UAS-mCherry::Orco<sup>WT</sup>/+ (II); Or22a-GAL4, Orco^1 (III)_] control flies show normal Orco localization.
+**B.** The ab3A dendrites of [_UAS-Dcr-2/+ (X); UAS-mCherry::Orco<sup>WT</sup>/UAS-CaM-IR (II); Or22a-GAL4, Orco^1 (III)_] flies show only a slight reduction in dendritic Orco when they are maintained for 7 days on normal food.
+**C--D.** Identical flies as in A and B maintained for 7 days in food vials containing a perforated 10% ethyl butyrate odor source.
+**C.** Long-term odor exposure significantly reduces the level of dendritic Orco in control flies.
+**D.** The combination of long-term odor exposure with CaM knock-down nearly eliminates ab3A dendritic Orco.
+The color of all images is inverted to improve dendrite visibility.
+All scale bars, 10 μm.
