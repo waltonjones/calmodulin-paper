@@ -10,7 +10,7 @@ Because Orco is neccessary for the dendritic localization of odor-specific ORs, 
 To address this, we again used Orco-GAL4 to drive OSN-specific expression of each version of Orco along with EGFP-tagged Or47a in the _Orco<sup>1</sup>_ mutant background.
 While Or47a localization is normal in flies expressing Orco<sup>WT</sup> (Fig. 3B), it is stuck in the cell bodies of OSNs expressing any of the three Orco CBS mutants (Fig. 3D, F, and H).
 In all of these images, we stained for the presence of the EGFP tag on Or47a, inverting the colors to improve dendrite visibility.
-Since none of the Orco CBS mutants can support dendritic OR localization, it is unsurprising that antennae expressing them are just as electrophysiologically non-responsive as those of the Orco<sup>1</sup> mutant (data not shown).
+Since none of the Orco CBS mutants can support dendritic OR localization, it is unsurprising that antennae expressing them are just as electrophysiologically non-responsive as those of the _Orco<sup>1</sup>_ mutant (data not shown).
 
 It is possible mutations in the Orco CBS disrupt the three-dimensional structure of Orco, meaning the defect in OR trafficking we observed is due simply to a lack of functional Orco rather than a specific disruption of Orco's ability to bind CaM.
 This is unlikely, however, because all three Orco CBS mutants---including the single amino acid deletion Orco<sup>W341Δ</sup>---produce the same phenotype.
