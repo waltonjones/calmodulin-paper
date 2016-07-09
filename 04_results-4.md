@@ -5,10 +5,10 @@ This type of adaptation lasts on the order of seconds to minutes \cite{Stortkuhl
 Unfortunately, the molecular mechanisms of olfactory adaptation in _Drosophila_ are not yet well-understood, but it likely involves OR post-translational modification, degradation, or internalization as is the case in the mammalian olfactory system \cite{Mashukova_2006}.
 Olfactory habituation, on the other hand, is characterized by a long-lasting reduction in odor-evoked _behavioral_ responses following prolonged exposure to high concentrations of identical or similar odorants. 
 According to the literature, olfactory habituation stems mainly from changes in the activity of lateral inhibitory interneurons in the antennal lobes that alter the projection neuron output into higher brain centers, rather than via changes in the OSNs themselves \cite{Larkin_2010, Das_2011}.
-Interestingly, although flies exposed to high concentration (10^-1) benzaldehyde for 4 days show strong behavioral habituation for days post-exposure, their peripheral electrophysiological responses to benzaldehyde were normal only one day later \cite{Devaud_2001}.
+Interestingly, although flies exposed to high concentration (10<sup>-1</sup>) benzaldehyde for 4 days show strong behavioral habituation for days post-exposure, their peripheral electrophysiological responses to benzaldehyde were normal only one day later \cite{Devaud_2001}.
 Thus, at the onset of a long-term odor exposure, OSNs experience peripheral adaptation and induces central habituation.
 At some point during or after a long-term odor exposure, though, peripheral sensitivity returns to normal.
-We, therefore, wondered whether CaM plays an activity-dependent role in the olfactory system, maintaining adequate levels of OR in the OSN dendrites during and after long-term odor exposure.
+We, therefore, wondered whether CaM plays an activity-dependent role in the olfactory system, maintaining adequate levels of OR in the OSN dendrites upon long-term odor exposure.
 This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
 To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites during or after prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
