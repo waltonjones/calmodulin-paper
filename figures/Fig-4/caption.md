@@ -11,7 +11,7 @@ Then, after transferring them to 18ºC to block additional Orco expression, we d
 By day 9, the ab3A cell bodies are empty while the dendrites show only slighly lower levels of Orco (_right_).
 **E.** When new Orco production is similarly blocked in the presence of the ab3A ligand ethyl butyrate, the level of dendritic Orco significantly reduced even after only 3 days.
 This is accompanied by enhanced ab3A cell body staining (_left_).
-By day 9, both the ab3A cell bodies and dendrites are nearly depleted of Orco, while residual Orco is still readily visible in the OSN cell bodies.
+By day 9, both the ab3A cell bodies and dendrites are nearly depleted of Orco, but residual Orco is still readily visible in the OSN cell bodies.
 For **B--E**, the color of each image is inverted to improve dendrite visibility.
 All scale bars, 10 μm.
 
