@@ -23,5 +23,5 @@ Although two recent studies using _in vitro_ and _ex vivo_ preparations with pha
 We, therefore, decided to both alter CaM expression at various times during OSN development and generate mutant versions of Orco incapable of binding CaM.
 We then measured odor-evoked responses with _in vivo_ extracellular recordings and performed experiments to visualize OSN morphology and OR localization.
 In doing so, we have demonstrated a clear role for CaM in the _Drosophila_ olfactory system as a modulator of Orco-mediated OR trafficking to OSN dendrites and, therefore, of olfactory sensitivity.
-We further found CaM's modulation of OR trafficking is OSN activity-dependent, meaning OSNs strongly stimulated by environmental odors show larger defects upon CaM loss-of-function.
-We, therefore, speculate CaM's sensitivity to intracellular Ca^2+ levels allows it to enhance Orco-mediated OR trafficking in times of need.
+We further found CaM's modulation of OR trafficking is OSN activity-dependent, meaning OSNs strongly stimulated by environmental odors show larger defects in olfactory sensitivity upon CaM loss-of-function.
+We, therefore, speculate CaM's sensitivity to intracellular Ca<sup>2+</sup> levels allows it to enhance Orco-mediated OR trafficking in times of need.
