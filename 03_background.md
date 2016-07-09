@@ -12,9 +12,9 @@ Orco, on the other hand, has been functionally conserved over more than 250 mill
 Even in species as distantly related as mosquitos and moths, Orco orthologues show up to 70% identity \cite{Jones_2005}.
 
 One of the most highly conserved portions of Orco contains a short sequence that is strongly predicted to bind Calmodulin \cite{12836676}. Calmodulin (CaM) is a highly conserved protein of about 150 amino acids that is ubiquitously expressed in eukaryotes \cite{Klee_1982,Finn_1995}.
-CaM contains four EF-hand domains that permit it to undergo conformational changes upon binding Ca^2+ ions.
+CaM contains four EF-hand domains that permit it to undergo conformational changes upon binding Ca<sup>2+</sup> ions.
 These conformational changes allow CaM to interact with its target proteins, modulating their function \cite{LaPorte_1980, Yap_1999, 11955428}.
-Thus, CaM acts as a sensor that transduces changes in intracellular Ca^2+ to changes in the function or activity of its target proteins.
+Thus, CaM acts as a sensor that transduces changes in intracellular Ca<sup>2+</sup> to changes in the function or activity of its target proteins.
 These target proteins include a wide range of enzymes, cell surface receptors, ion channels, and even structural proteins \cite{Cheung_1980, Chin_2000}.
 
 The presence of a strong candidate CaM binding site (CBS) within Orco coupled with the fact that odor-evoked activity in olfactory neurons increases intracellular Ca^2+ \cite{Wang_2003}, made us curious about the physiological relationship between Orco and CaM.
