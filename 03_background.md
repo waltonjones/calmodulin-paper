@@ -17,7 +17,7 @@ These conformational changes allow CaM to interact with its target proteins, mod
 Thus, CaM acts as a sensor that transduces changes in intracellular Ca<sup>2+</sup> to changes in the function or activity of its target proteins.
 These target proteins include a wide range of enzymes, cell surface receptors, ion channels, and even structural proteins \cite{Cheung_1980, Chin_2000}.
 
-The presence of a strong candidate CaM binding site (CBS) within Orco coupled with the fact that odor-evoked activity in olfactory neurons increases intracellular Ca<sup>2+</sup> \cite{Wang_2003} made us curious about the physiological relationship between Orco and CaM.
+The presence of a strong candidate CaM binding site (CBS) within Orco coupled with the fact that odor-evoked activity in olfactory neurons increases intracellular Ca<sup>2+</sup> \cite{Wang_2003}, made us curious about the physiological relationship between Orco and CaM.
 Although two recent studies using _in vitro_ and _ex vivo_ preparations with pharmacological inhibitors provided evidence that CaM modulation does affect olfactory responses \cite{Mukunda_2014, Mukunda_2016}, these experiments were limited in their ability to clarify CaM's _in vivo_ relationship with Orco in insect olfactory neurons as they respond to odors.
 
 We, therefore, decided to both alter CaM expression at various times during OSN development and generate mutant versions of Orco incapable of binding CaM.
