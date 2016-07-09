@@ -9,8 +9,8 @@ In this study, we explore the relationship between Orco and CaM _in vivo_ in the
 
 ## Results
 OSN-specific knock-down of CaM at the onset of OSN development dramatically reduces olfactory responsiveness and Orco trafficking to OSN dendrites without affecting OSN morphology.
-We next generated a series of Orco CBS mutants and used them to rescue the Orco<sup>1</sup> null mutant.
-While wild type Orco rescues the Orco<sup>1</sup> defect in trafficking ORs to OSN dendrites, ORs in all of the Orco CBS mutants remain stuck in the OSN cell bodies, precluding even the smallest odor-evoked response.
+We next generated a series of Orco CBS mutants and used them to rescue the _Orco<sup>1</sup>_ null mutant.
+While wild type Orco rescues the _Orco<sup>1</sup>_ defect in trafficking ORs to OSN dendrites, all of the Orco CBS mutants remain stuck in the OSN cell bodies, precluding even the smallest odor-evoked response.
 Finally, we found CaM's modulation of OR trafficking is activity-dependent.
 Knock-down of CaM in all Orco-positive OSNs after OR expression is well-established has relatively little effect on olfactory responsiveness alone.
 When combined with an extended exposure to a given odor, however, this late-onset CaM knock-down dramatically reduces both olfactory sensitivity and dendritic OR trafficking only in OSNs that respond to that specific odor.

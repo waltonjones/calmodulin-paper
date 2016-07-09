@@ -2,9 +2,9 @@
 
 **A.** Schematic detailing the temperature changes used to restrict CaM knock-down to adult olfactory neurons.
 At 18ºC, tub-GAL80^ts represses Peb-GAL4's activation of CaM-IR expression.
-Between 0 and 12 hours APF, as adult OSN development is beginning, we moved the Peb-GAL4,tub-GAL80<sup>ts</sup>;UAS-CaM-IR flies from 18ºC to 29ºC to inactivate GAL80 and activate CaM knock-down ("CaM-IR ON").
+Between 0 and 12 hours APF, as adult OSN development is beginning, we moved the _Peb-GAL4,tub-GAL80<sup>ts</sup>;UAS-CaM-IR_ flies from 18ºC to 29ºC to inactivate GAL80 and activate CaM knock-down ("CaM-IR ON").
 We maintained "CaM-IR OFF" control flies at 18ºC throughout adulthood.
-**B--C.** Staining of antennal sections from Peb-GAL4,UAS-Dcr-2/+; tub-GAL80<sup>ts</sup>/UAS-CaM-IR; UAS-myR::GFP/+ flies with an Orco-specific antibody. Scale bars, 10 μm.
+**B--C.** Staining of antennal sections from _Peb-GAL4,UAS-Dcr-2/+; tub-GAL80<sup>ts</sup>/UAS-CaM-IR; UAS-myR::GFP/+_ flies with an Orco-specific antibody. Scale bars, 10 μm.
 **B.** "CaM-IR OFF" control flies show strong Orco signal in both the OSN cell bodies and sensory dendrites.
 **C.** "CaM-IR ON" flies show little to no change in Orco staining in the OSN cell bodies, but substantially reduced staining in the dendrites (left).
 This occurs despite normal OSN dendritic morphology, confirmed via visualization of the membrane-tethered myR::GFP (right).
