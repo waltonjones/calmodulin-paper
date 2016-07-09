@@ -13,4 +13,4 @@ This occurs despite normal OSN dendritic morphology, confirmed via visualization
 **F.** Percentage of large basiconic sensilla from flies of the indicated genotypes maintained at the indicated temperatures showing spontaneous spiking activity.
 While all sensilla from the control flies show normal spontaneous action potentials, this is reduced to ~50% in "CaM-IR ON" flies.
 Data are presented as means ± standard error, n = 5 flies, 10 sensilla for each genotype.
-We used the following precise genotypes: [Peb-GAL4, UAS-Dcr-2/+ (X); tub-GAL80<sup>ts</sup>/+ (II)], [UAS-CaM-IR/+ (II)], and [Peb-GAL4, UAS-Dcr-2/+ (X); tub-GAL80<sup>ts</sup>/CaM-IR (II)].
+We used the following precise genotypes: [_Peb-GAL4, UAS-Dcr-2/+ (X); tub-GAL80<sup>ts</sup>/+ (II)_], [_UAS-CaM-IR/+ (II)_], and [_Peb-GAL4, UAS-Dcr-2/+ (X); tub-GAL80<sup>ts</sup>/CaM-IR (II)_].
