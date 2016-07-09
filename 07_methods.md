@@ -31,7 +31,7 @@ We used the following antibodies: mouse anti-GFP (A11120, ThermoFisher Scientifi
 ## Odorant exposure protocol
 After aging each group of flies on normal food for three days post-eclosion, we moved them to new vials containing an odor source that we exchanged daily.
 Each odor source consisted of a perforated PCR tube containing 200 μl of odor diluted 1:10 in paraffin oil placed inside a larger, perforated E-tube.
-All the odors for this experiment were purchased from Sigma-Aldrich and included the following: methyl acetate (45999), ethyl butyrate (E15701), and methyl hexanoate (259942).
+All the odors for this experiment were purchased from Sigma-Aldrich and included the following: ethyl acetate (34858), ethyl butyrate (E15701), and methyl hexanoate (259942).
 
 ## Statistical analysis
 To identify statistically significant differences in olfactory dose-response curves, we compared the experimental genotype to its controls at each odorant concentration using two-way ANOVAs with Bonferroni post-hoc tests for multiple comparisons.
