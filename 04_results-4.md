@@ -9,7 +9,7 @@ Interestingly, although flies exposed to high concentration (10^-1) benzaldehyde
 Thus, over the course of a long-term odor exposure, OSNs experience peripheral adaptation, and if this adaptation continues, it induces central habituation.
 At some point during or after a long-term odor exposure, though, peripheral sensitivity returns to normal.
 We, therefore, wondered whether CaM plays an activity-dependent role in the olfactory system, maintaining adequate levels of OR in the OSN dendrites during and after long-term odor exposure.
-This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004}.
+This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
 To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites during or after prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
 We, therefore, used Or22a-GAL4 to drive expression of Orco^WT, rescuing the Orco^1 mutation only in ab3A neurons.

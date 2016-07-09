@@ -1,19 +1,17 @@
 # Discussion
-In this study, we demonstrate a previously unknown role of CaM in insect OSNs by using genetic tools and experimental methods that allow us to study CaM in its natural physiological context at different developmental stages of OSNs _in vivo_.
-CaM RNAi at the onset of OSN development and Orco putative CBS mutagenesis led to reduction or complete loss of Orco in OSN dendritic membranes and olfactory response measured by SSR (Fig.
-1 and 3).
+In this study, we uncovered a previously unknown role for Calmodulin in concert with the olfactory co-receptor Orco in the trafficking of insect ORs to the ciliated dendrites of olfactory neurons.
+We showed CaM knock-down in OSNs prior to their expression of ORs dramatically disrupts the dendritic trafficking of Orco, interfering with odor responsiveness (Fig. 1).
+We next showed mutations in the putative Orco CBS completely block Orco and odor-specific OR trafficking (Fig. 2 and 3).
 
-Then we further characterized CaM's role by showing that CaM modulates Orco trafficking in an OSN activity-dependent manner.
-First we observed that the level of dendritic Orco is reduced upon prolonged exposure to an odorant in the absence of novel Orco expression (Fig 4).
-Interestingly, in the presence of an odorant, even when most of the Orco was depleted in the dendrites, the OSN cell bodies showed a higher level of Orco localization.
-This was significantly different from the depletion of Orco first in the cell bodies and then much more gradual degradation in the dendrites seen in control flies without any odorant exposure (Fig 4D) and in a similar experiment done by Benton _et al_. \cite{Benton_2006}.
-Even though further study on Orco kinetics is necessary, we believe that one possibility of explaining such results is that odorant binding causes OR internalization and trafficking back into cell bodies, perhaps for further degradation or recycling.
-Such ligand-induced internalization has been reported in several other classes of cell surface receptors trafficking of which are also modulated by CaM \cite{Lee_2008, Tebar_2002}.
+We next found long-term odor exposure seems to induce the movement of dendritic Orco into the cell bodies, presumably by inducing receptor internalization and subsequent recycling or degradation (Fig. 4).
+Since OSN's depleted of CaM after OR expression begins show very little change in odor sensitivity, we wondered if the reduction in dendritic Orco induced by long-term odor exposure would increase the demand for CaM-induced Orco trafficking and hence accentuate the effect of CaM knock-down.
+Indeed, we found this is the case; the combination of long-term odor exposure with CaM knock-down dramatically reduces odor sensitivity in an odor and OSN subtype-specific manner (Fig. 5).
+This OSN activity-dependent reduction in odor sensitivity is, unsurprisingly, accompanied by a dramatic reduction in dendritic Orco localization (Fig. 6).
+Thus, our results demonstrate a role for CaM in the dendritic trafficking of Orco/OR complexes.
+This role for CaM is especially important when OSNs are subjected to prolonged odor exposure, because odor exposure seems to deplete dendritic Orco, necessitating the trafficking of additional Orco/OR complexes to the dendrites to maintain olfactory sensitivity.
 
-Then we investigated the result of knocking down CaM in the presence or absence of extended exposure to an odorant. Remarkably, while late-onset knock-down of CaM using Orco-Gal4 in the absence of odorants led to no change or only a slight decrease in olfactory response in ab2A and ab3A neurons, knock-down of CaM during prolonged odorant exposure resulted in a dramatic loss of olfactory response (Fig. 5). Such reduction in olfactory response was characterized by severely diminished Orco localization in the OSN dendrites (Fig. 6). Therefore, our results indeed demonstrate that CaM, upon prolonged odor exposure, is crucial in maintaining a stable level of Orco/OR in the dendrites and normal olfactory response, perhaps because such exposure results in a depletion of dendritic Orco and necessitate enhanced Orco/OR trafficking.
-
-Even though the condition of odorant exposure may seem drastic, similar or even higher concentrations of odorants and durations \cite{Devaud_2001, Das_2011, Sachse_2007} have been used in previous studies studying effects of prolonged odorant exposure in flies .
-As noted in Devaud _et al_., the actual concentration of odorant perceived by flies is lower due to the fact that odorants have to vaporize out of two layers of perforated tubes and become even more dilute upon diffusion throughout the vial.
+Although we used relatively high odor concentrations for the long-term odor exposures in this study, but other published olfatory adaptation and habituation studies used similar or even higher concentrations and exposure durations \cite{Devaud_2001, Das_2011, Sachse_2007}.
+We the actual concentration of odorant perceived by flies is lower due to the fact that odorants have to vaporize out of two layers of perforated tubes and become even more dilute upon diffusion throughout the vial.
 
 Our results allow us a draw a model of olfactory receptor maintenance and dendritic trafficking where OR level is kept constant by two opposing forces: presence of ligands which causes reduction in amount of Orco at the dendrites, and binding of CaM to Orco which delivers Orco to the dendrites, thereby making up for the loss of dendritic Orco caused by odorant exposure.
 This way, a constant level of Orco, and subsequently ORx, is maintained at its functional site of odorant recognition.
