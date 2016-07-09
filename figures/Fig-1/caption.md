@@ -1,4 +1,5 @@
 **Figure 1: CaM knock-down reduces Orco levels in OSN dendrites and odor responsiveness.**
+
 **A.** Schematic detailing the temperature changes used to restrict CaM knock-down to adult olfactory neurons.
 At 18ºC, tub-GAL80^ts represses Peb-GAL4's activation of CaM-IR expression.
 Between 0 and 12 hours APF, as adult OSN development is beginning, we moved the Peb-GAL4,tub-GAL80<sup>ts</sup>;UAS-CaM-IR flies from 18ºC to 29ºC to inactivate GAL80 and activate CaM knock-down ("CaM-IR ON").

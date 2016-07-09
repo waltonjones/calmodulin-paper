@@ -1,6 +1,11 @@
-## Figure 3
-**Orco CBS mutations disrupt the dendritic trafficking of Orco and Or47a.**
-**A** UAS-mCH::Orco^WT/UAS-myR::GFP (II); Orco-Gal4, Orco^1 (III) flies have normal Orco localization in the OSN cell bodies and dendrites (_left_) and normal dendritic morphology (_right_), confirmed by visualization of the mCherry fluorophore and GFP, respectively.
-**B** Immunostaining UAS-Orco^WT/UAS-EGFP::OR47a(II); Orco-Gal4, Orco^1 (III) flies' antenna with GFP antibody show normal dendritic trafficking of ectopically expressed OR47a receptor.
-**C** to **H** When Orco and OR47a localization and dendritic morphology were similarly examined in flies expressing **C** and **D** Orco^CBSΔ, **E** and **F** Orco^W341Δ and **G** and **H** Orco^RH344EE, all three Orco putative CBS mutations resulted in **C**, **E**, and **G** a complete loss of Orco localization in the dendrites despite normal dendritic morphology and **D**, **F**, and **H** loss of Or47a dendritic trafficking. For **C**, **E**, and **G** smaller images on the left are those taken at the same gain as **A**, and larger images are the same antenna visualized at an enhanced gain to confirm the lack of Orco in the dendrites. **B**, **D**, **F**, and **H** are results of immunostaining with GFP antibody and converting to inverted black and white images.
-All scale bars: 10 μm. 
+**Figure 3: Mutation of the Orco CBS disrupts the dendritic trafficking of Orco and Or47a.**
+
+**A.** _UAS-mCherry::Orco<sup>WT</sup>/UAS-myR::GFP (II); Orco-GAL4, Orco^1 (III)_ flies show normal Orco localization in OSN cell bodies and dendrites (_left_) as well as normal dendritic morphology (_right_).
+We confirmed this by visualization of mCherry and GFP, respectively.
+**B.** Staining of _UAS-Orco<sup>WT</sup>/UAS-EGFP::OR47a (II); Orco-GAL4, Orco^1 (III)_ antennae with an anti-GFP antibody shows normal dendritic trafficking of OR47a.
+**C--H.** We then similarly examined the localization of Orco and OR47a in flies expressing Orco^CBSΔ (**C--D**), Orco^W341Δ (**E--F**), and Orco^RH344EE (**G--H**).
+For unknown reasons, perhaps increased degradation, the Orco CBS mutants all show lower mCherry signal than Orco^WT when imaged at the same confocal settings (**C, E, G _inset panels_**).
+None of the three Orco CBS mutants rescue the dendritic localization of Orco (**C, E, G _left panels_**) despite showing normal dendritic morphology (**C, E, G _right panels_**).
+Neither do the CBS mutants rescue dendritic localization of OR47a (**D, F, H**).
+For **B**, **D**, **F**, and **H**, the color of each image is inverted to improve dendrite visibility.
+All scale bars, 10 μm.

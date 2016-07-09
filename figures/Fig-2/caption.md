@@ -1,4 +1,5 @@
 **Figure 2: Putative CBS in Orco is highly conserved.**
-**A.** Snake plot of Orco protein, each amino acid colored based on the level of conservation among other insect Orco orthologues.
-Putative CBS, marked by a bracket, is nearly 100% conserved among approximately 80 insect Orco orthologues examined.
-**B.** Closer view of the Orco putative CBS and the three CBS mutants generated: Orco^CBSΔ with the first three and last two amino acids of the putative CBS deleted; Orco^W341Δ with a single Tryptophan residue deletion; and Orco^RH344EE with two positively charged residues, Arginine and Histidine, substituted with negatively charged Glutamate residues.
+
+**A.** Orco snake plot with each amino acid color-coded according to its level of conservation across 78 Orco orthologues.
+The indicated intracellular CaM binding site (CBS) is among the most highly conserved regions of Orco.
+**B.** Sequences of the wild type Orco CBS in the Orco^WT transgene, the N-terminal and C-terminal Orco CBS deletion mutant Orco^CBSΔ, the single tryptophan deletion mutant Orco^W341Δ, and the charge reversal mutant Orco^RH344EE. All the UAS-Orco transgenes we generated also have an N-terminal mCherry tag (not shown)
