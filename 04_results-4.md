@@ -8,7 +8,7 @@ According to the literature, olfactory habituation stems mainly from changes in 
 Interestingly, although flies exposed to high concentration (10<sup>-1</sup>) benzaldehyde for 4 days show strong behavioral habituation for days post-exposure, their peripheral electrophysiological responses to benzaldehyde were normal only one day later \cite{Devaud_2001}.
 Thus, upon continuous odor stimulation, OSNs experience peripheral adaptation and as this exposure becomes more prolonged, induces central habituation.
 At some point during or after a long-term odor exposure, though, peripheral sensitivity returns to normal even though flies still show reduced behavioral response.
-We, therefore, wondered if CaM may contribute to maintaining olfactory sensitivity in the antenna upon prolonged odor exposure by maintaining adequate levels of OR in the OSN dendrites in an activity-dependent manner.
+We, therefore, wondered if CaM may contribute in maintaining olfactory sensitivity in the antenna upon prolonged odor exposure by maintaining adequate levels of OR in the OSN dendrites in an activity-dependent manner.
 This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
 To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites during or after prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
