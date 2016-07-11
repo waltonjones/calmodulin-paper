@@ -8,8 +8,8 @@ We obtained the following fly strains (Bloomington Stock #) from the Bloomington
 We obtained the following fly stocks (Stock #) from the VDRC Stock Center: _UAS-CaM-IR_ (102004).
 
 To generate the Orco CBS mutants, we designed primers for mutagenizing a pGEMT-easy vector containing an Orco cDNA.
-These primers, presented 5' to 3', were as follows: _UAS-Orco<sup>W341Δ</sup>_ (GTGCCATCAAGTACGTCGAGCGGCACAAG and CTTGTGCCGCTCGACGTACTTGATGGCAC); _UAS-Orco<sup>CBSΔ</sup>_ (GATGATGGTGCGCAAGTACTGGGTC and GACCCAGTACTTGCGCACCATCATC for the N-terminal SAI deletion, CAAGTACTGGGTCCACAAGCACGTG and CACGTGCTTGTGGACCCAGTACTTG for C-terminal ER deletion); _UAS-Orco<sup>RH344EE</sup>_ (CATCAAGTACTGGGTCGAGGAGGAGAAGCACGTGGTGCGACTG and CAGTCGCACCACGTGCTTCTCCTCCTCGACCCAGTACTTGATG).
-After confirming their sequences, we subcloned each mutated cDNA into a modified attB-containing SST13 UAS vector \cite{Suh_2015} downstream of and inframe with the coding sequence for mCherry.
+These primers, presented 5' to 3', were as follows: _UAS-Orco<sup>CBSΔ</sup>_ (GATGATGGTGCGCAAGTACTGGGTC and GACCCAGTACTTGCGCACCATCATC for the N-terminal SAI deletion, CAAGTACTGGGTCCACAAGCACGTG and CACGTGCTTGTGGACCCAGTACTTG for C-terminal ER deletion); _UAS-Orco<sup>W341Δ</sup>_ (GTGCCATCAAGTACGTCGAGCGGCACAAG and CTTGTGCCGCTCGACGTACTTGATGGCAC); _UAS-Orco<sup>RH344EE</sup>_ (CATCAAGTACTGGGTCGAGGAGGAGAAGCACGTGGTGCGACTG and CAGTCGCACCACGTGCTTCTCCTCCTCGACCCAGTACTTGATG).
+After confirming their sequences, we subcloned each mutated cDNA into a modified attB-containing SST13 UAS vector \cite{Suh_2015} downstream of and in-frame with the coding sequence for mCherry.
 We also subcloned a wild type Orco cDNA into this same vector produce the UAS-Orco^WT control.
 We performed this subcloning into the modified SST13 UAS vector using the SLIC protocol \cite{Li_2007, Jeong_2012} and the following primers presented 5' to 3': GCGGCCGCGGCTCGAGAAACAACCTCGATGCAGCCGA and ATATGGTACCCTCGAGTTACTTGAGCTGCACCAGC.
 
