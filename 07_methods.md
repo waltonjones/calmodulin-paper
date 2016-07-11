@@ -3,12 +3,12 @@
 We maintained our fly stocks at either 18ºC or 25ºC and 60% humidity under a 12h:12h light:dark cycle.
 We used standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm) containing 1.5 g Tegosept per liter of food as an anti-fungal agent.
 
-We received the Orco-GAL4 strain and the Pebbled-GAL4 strains as generous gifts from Bill Hansson (Jena, Germany) and Mattias Alenius (Linköping, Sweden), respectively.
-We obtained the following fly strains (Bloomington Stock #) from the Bloomington Stock Center: Orco<sup>1</sup> (23129); 10XUAS-myR::GFP (32198); tub-GAL80<sup>ts</sup> (7019); tub-GAL80<sup>ts</sup> (7018); UAS-Dcr2 (24648); UAS-Dcr2 (24650); and Or22a-GAL4 (9952).
-We obtained the following fly stocks (Stock #) from the VDRC Stock Center: UAS-CaM-IR (102004).
+We received the _Orco-GAL4_ strain and the _Pebbled-GAL4_ strains as generous gifts from Bill Hansson (Jena, Germany) and Mattias Alenius (Linköping, Sweden), respectively.
+We obtained the following fly strains (Bloomington Stock #) from the Bloomington Stock Center: _Orco<sup>1</sup>_ (23129); _10XUAS-myR::GFP_ (32198); _tub-GAL80<sup>ts</sup>_ (7019); _tub-GAL80<sup>ts</sup>_ (7018); _UAS-Dcr2_ (24648); _UAS-Dcr2_ (24650); and _Or22a-GAL4_ (9952).
+We obtained the following fly stocks (Stock #) from the VDRC Stock Center: _UAS-CaM-IR_ (102004).
 
-To generate the UAS-Orco CBS mutants, we designed primers for mutagenizing a pGEMT-easy vector containing an Orco cDNA.
-These primers, presented 5' to 3', were as follows: UAS-Orco^W341Δ (GTGCCATCAAGTACGTCGAGCGGCACAAG and CTTGTGCCGCTCGACGTACTTGATGGCAC); UAS-Orco^CBSΔ (GATGATGGTGCGCAAGTACTGGGTC and GACCCAGTACTTGCGCACCATCATC for the SAI deletion, CAAGTACTGGGTCCACAAGCACGTG and CACGTGCTTGTGGACCCAGTACTTG for ER deletion); UAS-Orco^RH344EE(CATCAAGTACTGGGTCGAGGAGGAGAAGCACGTGGTGCGACTG and CAGTCGCACCACGTGCTTCTCCTCCTCGACCCAGTACTTGATG).
+To generate the Orco CBS mutants, we designed primers for mutagenizing a pGEMT-easy vector containing an Orco cDNA.
+These primers, presented 5' to 3', were as follows: _UAS-Orco<sup>W341Δ</sup>_ (GTGCCATCAAGTACGTCGAGCGGCACAAG and CTTGTGCCGCTCGACGTACTTGATGGCAC); _UAS-Orco<sup>CBSΔ</sup>_ (GATGATGGTGCGCAAGTACTGGGTC and GACCCAGTACTTGCGCACCATCATC for the SAI deletion, CAAGTACTGGGTCCACAAGCACGTG and CACGTGCTTGTGGACCCAGTACTTG for ER deletion); _UAS-Orco<sup>RH344EE</sup>_ (CATCAAGTACTGGGTCGAGGAGGAGAAGCACGTGGTGCGACTG and CAGTCGCACCACGTGCTTCTCCTCCTCGACCCAGTACTTGATG).
 After confirming their sequences, we subcloned each mutated cDNA into a modified attB-containing SST13 UAS vector \cite{Suh_2015} downstream of and inframe with the coding sequence for mCherry.
 We also subcloned a wild type Orco cDNA into this same vector produce the UAS-Orco^WT control.
 We performed this subcloning into the modified SST13 UAS vector using the SLIC protocol \cite{Li_2007, Jeong_2012} and the following primers presented 5' to 3': GCGGCCGCGGCTCGAGAAACAACCTCGATGCAGCCGA and ATATGGTACCCTCGAGTTACTTGAGCTGCACCAGC.
