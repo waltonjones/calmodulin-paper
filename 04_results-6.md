@@ -1,6 +1,6 @@
 Finally, we wanted to confirm that these reductions in odor-evoked responses in the CaM-depleted OSNs upon long-term odorant exposure are accompanied by a reduction in dendritic Orco localization.
-To do so, we used _Or22a-GAL4_ to drive both Orco<sup>WT</sup> and _CaM-IR_ in the _Orco<sup>1</sup>_ null mutant background and compared their ab3A dendritic Orco signal to that of controls lacking the _CaM-IR_ transgene.
-In the absence of a long-term ethyl butyrate exposure, the ab3A dendrites of control flies (Fig. 6A) show Orco levels similar but slightly higher than the ab3A dendrites of _Or22a-G4>CaM-IR_ flies (Fig. 6B).
-After a long-term exposure to 10% ethyl butyrate, however, the ab3A dendrites of control flies (Fig. 6C) contain much more Orco than the ab3A dendrites of _Or22a-G4>CaM-IR_ flies (Fig. 6D).
+To do so, we used _Or22a-GAL4_ to drive both Orco<sup>WT</sup> and CaM-IR in the _Orco<sup>1</sup>_ null mutant background and compared their ab3A dendritic Orco signal to that of controls lacking the CaM-IR transgene.
+In the absence of a long-term ethyl butyrate exposure, the ab3A dendrites of control flies (Fig. 6A) show Orco levels similar but slightly higher than the ab3A dendrites of _Or22a-G4>UAS-CaM-IR_ flies (Fig. 6B).
+After a long-term exposure to 10% ethyl butyrate, however, the ab3A dendrites of control flies (Fig. 6C) contain much more Orco than the ab3A dendrites of _Or22a-G4>UAS-CaM-IR_ flies (Fig. 6D).
 This is completely consistent with the electrophysiological results shown in Figure 5.
 Together, these results suggest CaM's modulation of Orco trafficking depends on OSN activity levels, and that its role becomes especially important during long-term odor exposures that deplete the dendrites of specific OSN subtypes of their supply of Orco and hence active Orco/OR complexes.
