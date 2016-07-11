@@ -1,4 +1,4 @@
-Next, we used Orco-GAL4 to drive OSN-specific expression of each UAS-Orco transgene in the _Orco<sup>1</sup>_ null mutant background.
+Next, we used _Orco-GAL4_ to drive OSN-specific expression of each _UAS-Orco_ transgene in the _Orco<sup>1</sup>_ null mutant background.
 As expected, by visualizing its N-terminal mCherry tag, we found Orco<sup>WT</sup> is expressed well and localized normally to both the OSN cell bodies and sensory dendrites (Fig. 3A, left).
 A membrane-tethered GFP also revealed normal dendritic morphology (Fig. 3A, right).
 When we attempted to visualize the N-terminal mCherry tags of the three Orco CBS mutants at the same confocal settings we used for Orco<sup>WT</sup>, however, we observed much lower signal levels in the OSN cell bodies (Fig. 3C, E, and G, insets).
@@ -7,7 +7,7 @@ Importantly, in all three cases, we confirmed proper dendritic localization of a
 Since all four Orco cDNAs were cloned in the same way and inserted into the same genomic location, we expect the reduced signal coming from the Orco CBS mutants is a result of increased protein degradation rather than differences in expression.
 
 Because Orco is neccessary for the dendritic localization of odor-specific ORs, we next asked whether the Orco CBS mutants can support OR localization.
-To address this, we again used Orco-GAL4 to drive OSN-specific expression of each version of Orco along with EGFP-tagged Or47a in the _Orco<sup>1</sup>_ mutant background.
+To address this, we again used _Orco-GAL4_ to drive OSN-specific expression of each version of Orco along with EGFP-tagged Or47a in the _Orco<sup>1</sup>_ mutant background.
 While Or47a localization is normal in flies expressing Orco<sup>WT</sup> (Fig. 3B), it is stuck in the cell bodies of OSNs expressing any of the three Orco CBS mutants (Fig. 3D, F, and H).
 In all of these images, we stained for the presence of the EGFP tag on Or47a, inverting the colors to improve dendrite visibility.
 Since none of the Orco CBS mutants can support dendritic OR localization, it is unsurprising that antennae expressing them are just as electrophysiologically non-responsive as those of the _Orco<sup>1</sup>_ mutant flies (data not shown).
