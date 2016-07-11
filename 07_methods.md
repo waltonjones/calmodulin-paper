@@ -4,7 +4,7 @@ We maintained our fly stocks at either 18ºC or 25ºC and 60% humidity under a 1
 We used standard cornmeal-yeast-corn syrup medium (http://flystocks.bio.indiana.edu/Fly_Work/media-recipes/bloomfood.htm) containing 1.5 g Tegosept per liter of food as an anti-fungal agent.
 
 We received the Orco-GAL4 strain and the Pebbled-GAL4 strains as generous gifts from Bill Hansson (Jena, Germany) and Mattias Alenius (Linköping, Sweden), respectively.
-We obtained the following fly strains (Bloomington Stock #) from the Bloomington Stock Center: Orco^1 (23129); 10XUAS-myR::GFP (32198); tub-GAL80ts (7019); tub-GAL80ts (7018); UAS-Dcr2 (24648); UAS-Dcr2 (24650); and Or22a-GAL4 (9952).
+We obtained the following fly strains (Bloomington Stock #) from the Bloomington Stock Center: Orco<sup>1</sup> (23129); 10XUAS-myR::GFP (32198); tub-GAL80<sup>ts</sup> (7019); tub-GAL80<sup>ts</sup> (7018); UAS-Dcr2 (24648); UAS-Dcr2 (24650); and Or22a-GAL4 (9952).
 We obtained the following fly stocks (Stock #) from the VDRC Stock Center: UAS-CaM-IR (102004).
 
 To generate the UAS-Orco CBS mutants, we designed primers for mutagenizing a pGEMT-easy vector containing an Orco cDNA.
