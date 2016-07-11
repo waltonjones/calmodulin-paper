@@ -1,4 +1,4 @@
-**Figure 4: Odor exposure in the absence of new Orco production accelerates the loss of existing dendritic Orco.**
+**Figure 4: Odor exposure in the absence of new Orco production accelerates dendritic Orco depletion.**
 
 **A.** Experimental scheme.
 We maintained _UAS-mCherry::Orco<sup>WT</sup>/tub-GAL80<sup>ts</sup>, Or22a-GAL4 (II); tub-GAL80<sup>ts</sup>, Orco<sup>1</sup> (III)_ flies at 29ºC until 3 days PE.
