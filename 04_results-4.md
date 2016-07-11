@@ -11,7 +11,7 @@ At some point during or after a long-term odor exposure, though, peripheral sens
 We, therefore, wondered if CaM may contribute to maintaining olfactory sensitivity in the antenna upon prolonged odor exposure by maintaining adequate levels of OR in the OSN dendrites in an activity-dependent manner.
 This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
-To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites during or after prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
+To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites upon prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
 We, therefore, used _Or22a-GAL4_ to drive expression of Orco<sup>WT</sup>, rescuing the _Orco<sup>1</sup>_ mutation only in ab3A neurons.
 These flies also carried three copies of the temperature-sensitive _tub-GAL80<sup>ts</sup>_, allowing us to block their production of any new Orco expression by shifting the flies from 29ºC down to 18ºC (Fig. 4a).
 When we stained "Orco ON" control flies raised continuously at 29ºC, we observed strong mCherry::Orco signal in both the cell bodies and dendrites of their ab3A neurons (Fig. 4B).
