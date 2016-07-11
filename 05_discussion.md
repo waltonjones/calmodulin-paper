@@ -17,7 +17,7 @@ Such an activity-dependent regulation of Orco trafficking during and after prolo
 A fly searching for food first encounters very low concentrations of fruity esters emanating from a piece of rotting fruit.
 The fly must then move through plumes of these odors, tracking their concentration gradients to their source.
 This would involve repeated transient exposures to low but gradually increasing concentrations of odor.
-Once the fly lands on a food source, however, it is immersed in much higher concentrations of odor that induce adaptation and even central habituation.
+Once the fly lands on a food source, however, it is immersed in much higher concentrations of odor that induce sensory adaptation and even central habituation.
 These odor-specific reductions of both peripheral and central responsiveness are presumably important in allowing the fly to shift attention to other important olfactory stimuli, like potential mates or danger signals.
 Peripheral sensitivity should not remain too low for too long, however, because this would prevent the fly from finding the same food source again if it were forced to briefly leave.
 Thus, CaM's activity-dependence seems to ensure a steady flow of OR into dendrites that are being consistently activated.
