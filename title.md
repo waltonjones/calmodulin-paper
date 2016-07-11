@@ -1,1 +1,1 @@
-Insect odorant receptor trafficking and function require calmodulin
+Insect odorant receptor trafficking requires Calmodulin
