@@ -36,5 +36,5 @@ All the odors for this experiment were purchased from Sigma-Aldrich and included
 ## Statistical analysis
 To identify statistically significant differences in olfactory dose-response curves, we compared the experimental genotype to its controls at each odorant concentration using two-way ANOVAs with Bonferroni post-hoc tests for multiple comparisons.
 For each odorant concentration on the graph, the higher p-value of the two was shown.
-We indicated statistically significant results with asterisks ( * _P_ ≤ 0.05, ** _P_ ≤ 0.01, *** _P_ ≤ 0.001) and non-significant results with _ns_.
+We indicated statistically significant results with asterisks (* _P_ ≤ 0.05, ** _P_ ≤ 0.01, *** _P_ ≤ 0.001) and non-significant results with _ns_.
 We performed all data analysis in either Graphpad (San Diego, CA, USA) or using R \cite{R}.
