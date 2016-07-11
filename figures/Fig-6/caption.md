@@ -1,4 +1,4 @@
-**Figure 5: CaM knock-down reduces dendritic Orco in an activity-dependent manner.**
+**Figure 6: CaM knock-down reduces dendritic Orco in an activity-dependent manner.**
 
 **A.** The ab3A dendrites of [_UAS-Dcr-2/+ (X); UAS-mCherry::Orco<sup>WT</sup>/+ (II); Or22a-GAL4, Orco<sup>1</sup> (III)_] control flies show normal Orco localization.
 **B.** The ab3A dendrites of [_UAS-Dcr-2/+ (X); UAS-mCherry::Orco<sup>WT</sup>/UAS-CaM-IR (II); Or22a-GAL4, Orco<sup>1</sup> (III)_] flies show only a slight reduction in dendritic Orco when they are maintained for 7 days on normal food.
