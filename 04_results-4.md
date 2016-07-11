@@ -17,7 +17,7 @@ These flies also carried three copies of the temperature-sensitive _tub-GAL80<su
 When we stained "Orco ON" control flies raised continuously at 29ºC, we observed strong mCherry::Orco signal in both the cell bodies and dendrites of their ab3A neurons (Fig. 4B).
 In contrast, the "Orco OFF" control, raised continously at 18ºC, showed absolutely no Orco signal at all (Fig. 4C), confirming the function of the GAL80 transgenes.
 To see how odorant exposure affects dendritic Orco levels, we reared these flies at 29ºC to allow Orco expression.
-Three days post-eclosion (PE), we moved the flies to either vials containing normal food or normal food plus an small perforated tube containing 10% ethyl butyrate (EB), which activates ab3A neurons.
+Three days post-eclosion (PE), we moved the flies to either vials containing normal food or normal food plus a small perforated tube containing 10% ethyl butyrate (EB), which activates ab3A neurons.
 We then moved both sets of vials to 18ºC to block additional Orco expression, visualizing Orco in both the cell bodies and dendrites 3 or 9 days later (Fig. 4A).
 After 3 days in the absence of EB, Orco staining falls slightly in the ab3A OSN cell bodies and increases in the dendrites, presumably because Orco is being continuously shuttled out to the dendrites.
 After 9 days in the absence of EB, while the ab3A cell bodies lack any Orco staining, some residual Orco remains in the dendrites (Fig. 4D).
