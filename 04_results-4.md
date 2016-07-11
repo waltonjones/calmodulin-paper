@@ -1,4 +1,4 @@
-We were curious how this role in OR trafficking could fit with CaM's role as a calcium sensor, especially considering how odor exposure induces action potentials and action potentials increase intracellular calcium.
+We were curious how this role in Orco/OR trafficking could fit with CaM's role as a calcium sensor, especially considering how odor exposure induces action potentials and action potentials increase intracellular calcium.
 It seems counter-intuitive that odor activation could enhance OR trafficking given the phenomena of sensory adaptation and behavioral habituation.
 Sensory adaptation occurs within OSNs, rapidly reducing their firing frequencies upon continuous or repeated odor stimulation and reducing the magnitude of subsequent electrophysiological responses to the same or similar odors.
 This type of adaptation lasts on the order of seconds to minutes \cite{Stortkuhl_1999} and is specific to individual OSN subtypes and the ORs they express \cite{de_Bruyne_1999}.
