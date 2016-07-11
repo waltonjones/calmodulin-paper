@@ -1,6 +1,6 @@
 **Figure 5: CaM knock-down reduces olfactory sensitivity in an activity-dependent manner.**
 
-**A--B.** CaM knock-down after OR expression has begun using Orco-GAL4 does not affect the sensitivity of ab2A neurons to methyl acetate (**A**) and slightly reduces the sensitivity of ab3A neurons to ethyl butyrate (**B**).
+**A--B.** CaM knock-down after OR expression has begun using _Orco-GAL4_ does not affect the sensitivity of ab2A neurons to methyl acetate (**A**) and slightly reduces the sensitivity of ab3A neurons to ethyl butyrate (**B**).
 **C.** When the same flies were maintained in vials containing 10% ethyl acetate, which activates ab2A, CaM knock-down produces a dramatic reduction in the sensitivity of ab2A neurons to methyl acetate.
 **D.** When we maintained these flies in vials containing 10% ethyl butyrate, we observed a similar but even more significant reduction in the sensitivity of ab3A to ethyl butyrate.
 **E--F.** This effect of CaM-IR is OSN subtype specific, as long-term exposure to 10% methyl hexanoate---a ligand for ab3A but not ab2A---does not affect ab2A sensitivity (**E**) but strongly reduces ab3A sensitivity (**F**). 
