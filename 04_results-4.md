@@ -7,7 +7,7 @@ Olfactory habituation, on the other hand, is characterized by a long-lasting red
 According to the literature, olfactory habituation stems mainly from changes in the activity of lateral inhibitory interneurons in the antennal lobes that alter the projection neuron output into higher brain centers, rather than via changes in the OSNs themselves \cite{Larkin_2010, Das_2011}.
 Interestingly, although flies exposed to high concentration (10<sup>-1</sup>) benzaldehyde for 4 days show strong behavioral habituation for days post-exposure, their peripheral electrophysiological responses to benzaldehyde were normal only one day later \cite{Devaud_2001}.
 Thus, upon continuous odor stimulation, OSNs experience peripheral adaptation and as this exposure becomes more prolonged, it induces central habituation.
-At some point during or after a long-term odor exposure, though, peripheral sensitivity returns to normal even though flies show reduced behavioral response.
+At some point during or after a long-term odor exposure, though, peripheral sensitivity returns to normal even though flies still show reduced behavioral responses.
 We, therefore, wondered if CaM may contribute to maintaining olfactory sensitivity in the antenna upon prolonged odor exposure by maintaining adequate levels of OR in the OSN dendrites in an activity-dependent manner.
 This would be somewhat analogous to CaM's neuronal activity-dependent regulation of the CaM-dependent protein kinases (CaMKs) \cite{Schulman_2004} and to CaM's regulation of the trafficking of both mGluR5 and EGFR \cite{Lee_2008, Tebar_2002}.
 
