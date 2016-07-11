@@ -6,8 +6,8 @@ Between 0 and 12 hours APF, as adult OSN development is beginning, we moved the 
 We maintained "CaM-IR OFF" control flies at 18ºC throughout adulthood.
 **B--C.** Staining of antennal sections from _Peb-GAL4,UAS-Dcr-2/+; tub-GAL80<sup>ts</sup>/UAS-CaM-IR; UAS-myR::GFP/+_ flies with an Orco-specific antibody. Scale bars, 10 μm.
 **B.** "CaM-IR OFF" control flies show strong Orco signal in both the OSN cell bodies and sensory dendrites.
-**C.** "CaM-IR ON" flies show little to no change in Orco staining in the OSN cell bodies, but substantially reduced staining in the dendrites (left).
-This occurs despite normal OSN dendritic morphology, confirmed via visualization of the membrane-tethered myR::GFP (right).
+**C.** "CaM-IR ON" flies show little to no change in Orco staining in the OSN cell bodies, but substantially reduced staining in the dendrites (_left_).
+This occurs despite normal OSN dendritic morphology, confirmed via visualization of the membrane-tethered myR::GFP (_right_).
 **D.** Sample spike trace from a typical "CaM-IR OFF" ab2 sensillum. Note the large ab2A spikes and the smaller ab2B spikes.
 **E.** Sample trace from a non-responsive, and hence unidentifiable, large basiconic "CaM-IR OFF" sensillum.
 **F.** Percentage of large basiconic sensilla from flies of the indicated genotypes maintained at the indicated temperatures showing spontaneous spiking activity.
