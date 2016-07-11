@@ -5,7 +5,7 @@ We showed CaM knock-down in OSNs prior to their expression of ORs dramatically d
 We next showed mutations in the putative Orco CBS completely block Orco and odor-specific OR trafficking (Fig. 2 and 3).
 
 We found long-term odor exposure seems to induce the movement of dendritic Orco into the cell bodies, presumably by inducing receptor internalization and subsequent recycling or degradation (Fig. 4).
-Since OSN's depleted of CaM after OR expression begins show very little change in odor sensitivity, we wondered if the reduction in dendritic Orco induced by long-term odor exposure would increase the demand for CaM-induced Orco trafficking and hence accentuate the effect of CaM knock-down.
+Since OSNs depleted of CaM after OR expression begins show very little change in odor sensitivity, we wondered if the reduction in dendritic Orco induced by long-term odor exposure would increase the demand for CaM-induced Orco trafficking and hence accentuate the effect of CaM knock-down.
 Indeed, we found this to be the case; the combination of long-term odor exposure with CaM knock-down dramatically reduces odor sensitivity in an odor and OSN subtype-specific manner (Fig. 5).
 This OSN activity-dependent reduction in odor sensitivity is, unsurprisingly, accompanied by a dramatic reduction in dendritic Orco localization (Fig. 6).
 Thus, our results demonstrate a role for CaM in the dendritic trafficking of Orco/OR complexes.
