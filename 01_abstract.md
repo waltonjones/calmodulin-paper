@@ -13,7 +13,7 @@ We next generated a series of Orco CBS mutants and used them to rescue the _Orco
 While wild type Orco rescues the _Orco<sup>1</sup>_ defect in trafficking ORs to OSN dendrites, all of the Orco CBS mutants remain stuck in the OSN cell bodies, precluding even the smallest odor-evoked response.
 Finally, we found CaM's modulation of OR trafficking is activity-dependent.
 Knock-down of CaM in all Orco-positive OSNs after OR expression is well-established has relatively little effect on olfactory responsiveness alone.
-When combined with an extended exposure to a given odor, however, this late-onset CaM knock-down dramatically reduces both olfactory sensitivity and dendritic OR trafficking only in OSNs that respond to that specific odor.
+When combined with an extended exposure to a given odor, however, this late-onset CaM knock-down dramatically reduces both olfactory sensitivity and dendritic Orco trafficking only in OSNs that respond to that specific odor.
 
 ## Conclusions
 In this study, we show Calmodulin regulates OR trafficking and olfactory responsiveness _in vivo_ in _Drosophila_ olfactory neurons via a highly conserved binding site on the olfactory co-receptor Orco.
