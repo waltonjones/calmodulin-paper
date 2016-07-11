@@ -13,7 +13,7 @@ This would be somewhat analogous to CaM's neuronal activity-dependent regulation
 
 To determine whether CaM is required to maintain appropriate levels of Orco in OSN dendrites upon prolonged odor exposure, we first wanted to be sure prolonged odor exposure reduces dendritic levels of Orco.
 We, therefore, used _Or22a-GAL4_ to drive expression of Orco<sup>WT</sup>, rescuing the _Orco<sup>1</sup>_ mutation only in ab3A neurons.
-These flies also carried three copies of the temperature-sensitive _tub-GAL80<sup>ts</sup>_, allowing us to block their production of any new Orco expression by shifting the flies from 29ºC down to 18ºC (Fig. 4a).
+These flies also carried three copies of the temperature-sensitive _tub-GAL80<sup>ts</sup>_, allowing us to block their production of any new Orco expression by shifting the flies from 29ºC down to 18ºC (Fig. 4A).
 When we stained "Orco ON" control flies raised continuously at 29ºC, we observed strong mCherry::Orco signal in both the cell bodies and dendrites of their ab3A neurons (Fig. 4B).
 In contrast, the "Orco OFF" control, raised continously at 18ºC, showed absolutely no Orco signal at all (Fig. 4C), confirming the function of the GAL80 transgenes.
 To see how odorant exposure affects dendritic Orco levels, we reared these flies at 29ºC to allow Orco expression.
