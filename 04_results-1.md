@@ -1,8 +1,8 @@
 # Results
 To explore CaM's relationship with Orco and olfactory responses _in vivo_, we first wanted to knock-down CaM in _Drosophila_ OSNs as early as possible in their development.
-To accomplish this, we combined a UAS-CaM-IR (inverted repeat) transgene with the peripheral sensory neuron driver Pebbled-GAL4.
-Although it is also expressed in larvae, Pebbled-GAL4 expression begins in nascent OSNs 12--18 hours after puparium formation (APF), long before the earliest OR expression begins at around 50 hours APF \cite{Sweeney_2007}.
-The combination of Pebbled-GAL4 with UAS-CaM-IR (_Peb-G4>CaM-IR_), however, induces pupal lethality (data not shown).
+To accomplish this, we combined a _UAS-CaM-IR_ (inverted repeat) transgene with the peripheral sensory neuron driver Pebbled-GAL4.
+Although it is also expressed in larvae, _Pebbled-GAL4_ expression begins in nascent OSNs 12--18 hours after puparium formation (APF), long before the earliest OR expression begins at around 50 hours APF \cite{Sweeney_2007}.
+The combination of _Pebbled-GAL4_ with _UAS-CaM-IR_ (_Peb-G4>CaM-IR_), however, induces pupal lethality (data not shown).
 To bypass this lethality, we used the ubiquitously expressed, temperature-sensitive tubulin-GAL80<sup>ts</sup> to limit expression of the _CaM-IR_ transgene until the pupal stage when the OSNs are being born.
 Thus, we set up and maintained the experimental flies (_Peb-G4, G80<sup>ts</sup>>CaM-IR_) and their appropriate controls at 18ºC, where GAL80 is actively suppressing GAL4.
 Then, to allow GAL4 to begin driving CaM knock-down, we moved the flies to 29ºC at 0--12 hours APF when OSN development begins \cite{Jefferis_2002} (Fig. 1A).
